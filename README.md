@@ -1,6 +1,6 @@
 # news_app
 
-A News App in Flutter using:
+A News App with "https://newsapi.org/" in Flutter using:
 
 flutter_bloc: ^8.1.1, 
 dio: ^4.0.6, 
